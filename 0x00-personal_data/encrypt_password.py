@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+
+"""
+    A module that contains functions like hash_password
+"""
+
 import bcrypt
 
 
