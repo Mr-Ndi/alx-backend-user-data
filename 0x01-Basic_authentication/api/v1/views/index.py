@@ -30,4 +30,4 @@ def unaothorizes() -> str:
   """
     Routes for testing unauthorised function
   """
-  return abort(401)
+  abort(401)
